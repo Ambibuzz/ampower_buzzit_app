@@ -1,8 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "format:Buzzit-Config-{#####}",
- "creation": "2025-07-31 12:29:41.219002",
+ "creation": "2025-07-31 15:52:12.465947",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
@@ -20,7 +19,7 @@
    "default": "0",
    "fieldname": "purchase_order",
    "fieldtype": "Check",
-   "label": "Purchase Order"
+   "label": "Purchase Order\u00a0"
   },
   {
    "default": "0",
@@ -66,22 +65,20 @@
   }
  ],
  "index_web_pages_for_search": 1,
+ "issingle": 1,
  "links": [],
- "modified": "2025-07-31 13:03:42.573194",
+ "modified": "2025-07-31 15:55:40.032252",
  "modified_by": "Administrator",
  "module": "Ampower Buzzit Community Frappe App",
  "name": "Buzzit Config",
- "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
   {
    "create": 1,
    "delete": 1,
    "email": 1,
-   "export": 1,
    "print": 1,
    "read": 1,
-   "report": 1,
    "role": "System Manager",
    "share": 1,
    "write": 1
