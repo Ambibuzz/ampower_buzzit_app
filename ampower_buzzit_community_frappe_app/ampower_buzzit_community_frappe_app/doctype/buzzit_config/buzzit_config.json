@@ -6,7 +6,6 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "fields_tab",
   "purchase_order",
   "sales_order",
   "sales_invoice",
@@ -17,11 +16,6 @@
   "workflow"
  ],
  "fields": [
-  {
-   "fieldname": "fields_tab",
-   "fieldtype": "Tab Break",
-   "label": "Fields"
-  },
   {
    "default": "0",
    "fieldname": "purchase_order",
@@ -73,7 +67,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-07-31 12:45:50.095488",
+ "modified": "2025-07-31 13:03:42.573194",
  "modified_by": "Administrator",
  "module": "Ampower Buzzit Community Frappe App",
  "name": "Buzzit Config",
