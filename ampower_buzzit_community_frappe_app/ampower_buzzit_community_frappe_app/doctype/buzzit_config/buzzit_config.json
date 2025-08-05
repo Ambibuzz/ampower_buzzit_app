@@ -6,12 +6,14 @@
  "engine": "InnoDB",
  "field_order": [
   "purchase_order",
+  "purchase_invoice",
   "sales_order",
   "sales_invoice",
   "stock_balance_report",
   "customer_ledger_report",
   "supplier_ledger_report",
   "balance_sheet_report",
+  "view_items",
   "workflow"
  ],
  "fields": [
@@ -62,12 +64,24 @@
    "fieldname": "workflow",
    "fieldtype": "Check",
    "label": "Workflow\u00a0"
+  },
+  {
+   "default": "0",
+   "fieldname": "purchase_invoice",
+   "fieldtype": "Check",
+   "label": "Purchase Invoice"
+  },
+  {
+   "default": "0",
+   "fieldname": "view_items",
+   "fieldtype": "Check",
+   "label": "View Items"
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2025-07-31 15:55:40.032252",
+ "modified": "2025-08-05 13:32:23.926803",
  "modified_by": "Administrator",
  "module": "Ampower Buzzit Community Frappe App",
  "name": "Buzzit Config",
