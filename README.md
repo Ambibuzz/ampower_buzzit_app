@@ -6,7 +6,7 @@ A flexible Frappe app designed to manage visibility of key doctypes and features
 
 ## 🚀 Overview
 
-**Ampower Buzzit Community Frappe App** enables dynamic control over what features and doctypes are visible in the mobile application interface. Admin users can easily enable or disable specific modules through a simple configuration panel.
+**Ampower Buzzit Community Frappe App** enables dynamic control over what features and doctypes are visible in the mobile application interface. Admin users can easily enable or disable specific doctypes through a simple configuration panel.
 
 This is especially useful when you want to provide a streamlined, role-based mobile experience without altering permissions or the backend logic.
 
@@ -35,7 +35,7 @@ These options are stored as individual boolean fields in the `Buzzit Config` doc
 
 ## 📱 Use Case
 
-Imagine you're an organization where not every employee should have access to every module on mobile. With this app:
+Imagine you're an organization where not every employee should have access to every doctype on mobile. With this app:
 
 - Salespeople can view only Sales Orders and Invoices.
 - Accountants can access ledgers and balance sheets.
