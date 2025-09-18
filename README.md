@@ -54,7 +54,7 @@ MIT
 cd ~/frappe-bench
 
 # Get the app
-bench get-app https://github.com/your-org/ampower_buzzit_app
+bench get-app https://github.com/Ambibuzz/ampower_buzzit_app
 
 # Install the app on your site
 bench --site your-site-name install-app ampower_buzzit_app
