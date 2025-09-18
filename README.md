@@ -1,4 +1,4 @@
-# Ampower Buzzit App
+# AmPower BuzzIT App
 
 A flexible Frappe app designed to manage visibility of key documents and features in the connected mobile app, empowering users with configurable access to business documents and reports.
 
@@ -7,7 +7,7 @@ This app acts as a **wrapper for the AmPower BuzzIT Mobile App**, enabling you t
 ---
 ## 🚀 Overview
 
-**Ampower BuzzIT App** enables dynamic control over what features and doctypes are visible in the mobile application interface. Admin users can easily enable or disable specific doctypes through a simple configuration panel.
+**AmPower BuzzIT App** enables dynamic control over what features and doctypes are visible in the mobile application interface. Admin users can easily enable or disable specific doctypes through a simple configuration panel.
 This is especially useful when you want to provide a streamlined, role-based mobile experience without altering permissions or the backend logic.
 
 AmPower BuzzIT is a mobile app that empowers business owners and managers with real-time dashboards, detailed reports, and instant access to sales, purchase, and financial data. It delivers seamless cross-platform performance, helping decision-makers stay informed and agile on the go.
