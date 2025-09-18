@@ -1,4 +1,4 @@
-# AmPower Buzzit App
+# AmPower BuzzIT App
 
 A flexible Frappe app designed to manage visibility of key documents and features in the connected mobile app, empowering users with configurable access to business documents and reports.
 
